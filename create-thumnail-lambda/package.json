@@ -1,0 +1,14 @@
+{
+  "name": "create-thumbnail-lambda",
+  "version": "1.0.0",
+  "description": "This is a lambda code for resizing image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradip Bhattarai",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.27.2"
+  }
+}
